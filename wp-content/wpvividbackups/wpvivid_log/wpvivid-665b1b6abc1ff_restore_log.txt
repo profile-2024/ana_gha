@@ -1,0 +1,172 @@
+[2024-06-01 13:00:27][notice]Start restoring themes.
+[2024-06-01 13:00:27][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip
+[2024-06-01 13:00:27][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip succeeded.
+[2024-06-01 13:00:27][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_themes.zip index:0
+[2024-06-01 13:00:27][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_themes.zip index:0 finished.
+[2024-06-01 13:00:27][notice]End restore themes.
+[2024-06-01 13:00:30][notice]Start restoring plugin.
+[2024-06-01 13:00:30][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip
+[2024-06-01 13:00:31][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip succeeded.
+[2024-06-01 13:00:31][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:0
+[2024-06-01 13:00:37][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:0 finished.
+[2024-06-01 13:00:37][notice]End restore plugin.
+[2024-06-01 13:00:40][notice]Start restoring plugin.
+[2024-06-01 13:00:40][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:1000
+[2024-06-01 13:00:54][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:1000 finished.
+[2024-06-01 13:00:54][notice]End restore plugin.
+[2024-06-01 13:00:58][notice]Start restoring plugin.
+[2024-06-01 13:00:58][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:2000
+[2024-06-01 13:01:12][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:2000 finished.
+[2024-06-01 13:01:12][notice]End restore plugin.
+[2024-06-01 13:01:16][notice]Start restoring plugin.
+[2024-06-01 13:01:16][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:3000
+[2024-06-01 13:01:33][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_plugin.zip index:3000 finished.
+[2024-06-01 13:01:33][notice]End restore plugin.
+[2024-06-01 13:01:37][notice]Start restoring wp-content.
+[2024-06-01 13:01:37][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip
+[2024-06-01 13:01:37][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip succeeded.
+[2024-06-01 13:01:37][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_content.zip index:0
+[2024-06-01 13:01:37][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_content.zip index:0 finished.
+[2024-06-01 13:01:37][notice]End restore wp-content.
+[2024-06-01 13:01:41][notice]Start restoring upload.
+[2024-06-01 13:01:41][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip
+[2024-06-01 13:01:46][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip succeeded.
+[2024-06-01 13:01:46][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part001.zip index:0
+[2024-06-01 13:01:48][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part001.zip index:0 finished.
+[2024-06-01 13:01:48][notice]End restore upload.
+[2024-06-01 13:01:51][notice]Start restoring upload.
+[2024-06-01 13:01:51][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part002.zip
+[2024-06-01 13:01:54][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part002.zip succeeded.
+[2024-06-01 13:01:54][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part002.zip index:0
+[2024-06-01 13:01:56][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part002.zip index:0 finished.
+[2024-06-01 13:01:56][notice]End restore upload.
+[2024-06-01 13:01:59][notice]Start restoring upload.
+[2024-06-01 13:01:59][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip
+[2024-06-01 13:02:01][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip succeeded.
+[2024-06-01 13:02:01][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part003.zip index:0
+[2024-06-01 13:02:02][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_uploads.part003.zip index:0 finished.
+[2024-06-01 13:02:02][notice]End restore upload.
+[2024-06-01 13:02:05][notice]Start restoring wp-core.
+[2024-06-01 13:02:05][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip
+[2024-06-01 13:02:06][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part003.zip succeeded.
+[2024-06-01 13:02:06][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_core.zip
+[2024-06-01 13:02:40][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_core.zip succeeded.
+[2024-06-01 13:02:40][notice]End restore wp-core.
+[2024-06-01 13:02:47][notice]Start restoring databases.
+[2024-06-01 13:02:47][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip
+[2024-06-01 13:02:47][notice]Extracting file:localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_all.part001.zip finished.
+[2024-06-01 13:02:47][notice]Extracting file:C:\xampp\htdocs\portfolio/wp-content\wpvividbackups\localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_db.zip
+[2024-06-01 13:02:48][notice]Extracting file:C:\xampp\htdocs\portfolio/wp-content\wpvividbackups\localhost_portfolio_wpvivid-6658b0f07627b_2024-05-30-17-01_backup_db.zip finished.
+[2024-06-01 13:02:48][notice]End restore databases.
+[2024-06-01 13:02:51][notice]Start restoring databases.
+[2024-06-01 13:02:51][notice]Start restoring sql file offset:0
+[2024-06-01 13:02:51][notice]The test to drop table succeeds.
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_addonlibrary_addons
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_addonlibrary_addons
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_addonlibrary_categories
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_addonlibrary_categories
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_e_events
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_e_events
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_links
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_links
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_term_relationships
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_term_relationships
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_commentmeta
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_commentmeta
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_term_taxonomy
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_term_taxonomy
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_termmeta
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_termmeta
+[2024-06-01 13:02:51][notice]Drop table if exist tmp6a49da_terms
+[2024-06-01 13:02:51][notice]Creating table tmp6a49da_terms
+[2024-06-01 13:02:52][notice]Drop table if exist tmp6a49da_usermeta
+[2024-06-01 13:02:52][notice]Creating table tmp6a49da_usermeta
+[2024-06-01 13:02:52][notice]Drop table if exist tmp6a49da_users
+[2024-06-01 13:02:52][notice]Creating table tmp6a49da_users
+[2024-06-01 13:02:52][notice]Drop table if exist tmp6a49da_comments
+[2024-06-01 13:02:52][notice]Creating table tmp6a49da_comments
+[2024-06-01 13:02:52][notice]Drop table if exist tmp6a49da_options
+[2024-06-01 13:02:52][notice]Creating table tmp6a49da_options
+[2024-06-01 13:02:53][notice]Drop table if exist tmp6a49da_posts
+[2024-06-01 13:02:53][notice]Creating table tmp6a49da_posts
+[2024-06-01 13:02:54][notice]Reading sql file completed offset:5248149
+[2024-06-01 13:02:54][notice]End restore databases.
+[2024-06-01 13:02:57][notice]Start restoring databases.
+[2024-06-01 13:02:57][notice]Start restoring sql file offset:5248149
+[2024-06-01 13:02:57][notice]The test to drop table succeeds.
+[2024-06-01 13:02:58][notice]Reading sql file completed offset:10501070
+[2024-06-01 13:02:58][notice]End restore databases.
+[2024-06-01 13:03:01][notice]Start restoring databases.
+[2024-06-01 13:03:01][notice]Start restoring sql file offset:10501070
+[2024-06-01 13:03:01][notice]The test to drop table succeeds.
+[2024-06-01 13:03:01][notice]Drop table if exist tmp6a49da_postmeta
+[2024-06-01 13:03:01][notice]Creating table tmp6a49da_postmeta
+[2024-06-01 13:03:03][notice]Reading sql file completed offset:15752786
+[2024-06-01 13:03:03][notice]End restore databases.
+[2024-06-01 13:03:06][notice]Start restoring databases.
+[2024-06-01 13:03:06][notice]Start restoring sql file offset:15752786
+[2024-06-01 13:03:06][notice]The test to drop table succeeds.
+[2024-06-01 13:03:08][notice]Reading sql file completed offset:21052905
+[2024-06-01 13:03:08][notice]End restore databases.
+[2024-06-01 13:03:11][notice]Start restoring databases.
+[2024-06-01 13:03:11][notice]Start restoring sql file offset:21052905
+[2024-06-01 13:03:11][notice]The test to drop table succeeds.
+[2024-06-01 13:03:12][notice]Reading sql file completed offset:26299655
+[2024-06-01 13:03:12][notice]End restore databases.
+[2024-06-01 13:03:15][notice]Start restoring databases.
+[2024-06-01 13:03:15][notice]Start restoring sql file offset:26299655
+[2024-06-01 13:03:15][notice]The test to drop table succeeds.
+[2024-06-01 13:03:16][notice]Reading sql file completed offset:31544588
+[2024-06-01 13:03:16][notice]End restore databases.
+[2024-06-01 13:03:19][notice]Start restoring databases.
+[2024-06-01 13:03:19][notice]Start restoring sql file offset:31544588
+[2024-06-01 13:03:19][notice]The test to drop table succeeds.
+[2024-06-01 13:03:20][notice]Reading sql file completed offset:36827586
+[2024-06-01 13:03:20][notice]End restore databases.
+[2024-06-01 13:03:23][notice]Start restoring databases.
+[2024-06-01 13:03:23][notice]Start restoring sql file offset:36827586
+[2024-06-01 13:03:23][notice]The test to drop table succeeds.
+[2024-06-01 13:03:24][notice]Reading sql file completed offset:42113354
+[2024-06-01 13:03:24][notice]End restore databases.
+[2024-06-01 13:03:27][notice]Start restoring databases.
+[2024-06-01 13:03:27][notice]Start restoring sql file offset:42113354
+[2024-06-01 13:03:27][notice]The test to drop table succeeds.
+[2024-06-01 13:03:27][notice]UPDATE tmp6a49da_options SET option_value="http://localhost/portfolio" WHERE option_name="siteurl";
+[2024-06-01 13:03:27][notice]update query len:99
+[2024-06-01 13:03:27][notice]UPDATE tmp6a49da_options SET option_value="http://localhost/portfolio" WHERE option_name="home";
+[2024-06-01 13:03:27][notice]update query len:96
+[2024-06-01 13:03:27][notice]Restore db success
+[2024-06-01 13:03:27][notice]End restore databases.
+[2024-06-01 13:03:30][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_addonlibrary_addons
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_addonlibrary_categories
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_comments
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_links
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_options
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_posts
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_terms
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-06-01 13:03:30][notice]DROP TABLE IF EXISTS wp_users
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_addonlibrary_addons TO wp_addonlibrary_addons
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_addonlibrary_categories TO wp_addonlibrary_categories
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_commentmeta TO wp_commentmeta
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_comments TO wp_comments
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_e_events TO wp_e_events
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_links TO wp_links
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_options TO wp_options
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_postmeta TO wp_postmeta
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_posts TO wp_posts
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_term_relationships TO wp_term_relationships
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_term_taxonomy TO wp_term_taxonomy
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_termmeta TO wp_termmeta
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_terms TO wp_terms
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_usermeta TO wp_usermeta
+[2024-06-01 13:03:30][notice]RENAME TABLE tmp6a49da_users TO wp_users
+[2024-06-01 13:03:30][notice]Replacing table prefix succeeded.
+[2024-06-01 13:03:31][notice]Deleting temp files.
